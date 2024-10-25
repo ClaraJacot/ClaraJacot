@@ -7,7 +7,7 @@ Développeuse fullstack en formation🖥️
 * 🌍  I'm based in Villeurbanne (69100)
 * 🖥️  See my portfolio at [Mon portfolio](http://portfolio-clara-jacot.netlify.app)
 * ✉️  You can contact me at [clara.jacot@gmail.com](mailto:clara.jacot@gmail.com)
-* 🧠  I'm learning JAVA
+* 🧠  I'm learning Kotlin and Angular
 * 🤝  I'm open to collaborating on interesting projects with high humain values
 * ⚡  I love my cat.
 
